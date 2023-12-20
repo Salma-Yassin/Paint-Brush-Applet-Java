@@ -1,5 +1,4 @@
 # Paint-Brush-Applet-Java
 
-## Demo <a name="demo"></a>
+https://github.com/Salma-Yassin/Paint-Brush-Applet-Java/assets/109458906/65957711-fe94-4a4f-ba24-7340aa23b416
 
-https://github.com/Salma-Yassin/Paint-Brush-Applet-Java/blob/e2f45c36f79005828c271d9c31a3c15b1ba70de1/applet-viewer-paintbrushclass.mp4
